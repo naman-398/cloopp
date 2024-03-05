@@ -1,7 +1,7 @@
 setTimeout(() => {
     document.getElementById("preloder").classList.add("d-none");
     document.body.classList.remove("overflow-hidden");
-}, 0);
+}, 4000);
 
 /////////back-to-top/////////
 document.addEventListener("DOMContentLoaded", function () {
