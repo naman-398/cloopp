@@ -980,6 +980,9 @@ transform: translateX(8px);
   .container{
     max-width: 1444px !important;
   }
+  .footerelipse{
+    top: -35%;
+  }
 }
 
 @media (max-width: 767.9px) {
