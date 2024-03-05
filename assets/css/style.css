@@ -595,6 +595,7 @@ transition: all 300ms linear;
   border-left: 2px solid #C5C5C5;
   background-color: transparent;
   color: #FFF;
+  border-radius: unset;
 }
 ::placeholder{
   font-size: var(--fs-1sm);
